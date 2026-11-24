@@ -1,0 +1,57 @@
+{
+  "source": "USGS/NASA Landsat 8 & 9 Collection 2 Level-2 via Microsoft Planetary Computer STAC API",
+  "wrs_path_row": "219/076",
+  "season": "Warm season (Nov-Mar, 2023-2026)",
+  "resolution_m": 30,
+  "water_masked": true,
+  "scenes": [
+    {
+      "scene_id": "LC08_L2SP_219076_20260329_02_T1",
+      "date": "2026-03-29",
+      "platform": "landsat-8",
+      "cloud_cover_scene_pct": 3.5,
+      "valid_land_pct_sp": 79.28,
+      "mean_lst_c_sp": 31.55
+    },
+    {
+      "scene_id": "LC09_L2SP_219076_20251129_02_T1",
+      "date": "2025-11-29",
+      "platform": "landsat-9",
+      "cloud_cover_scene_pct": 1.32,
+      "valid_land_pct_sp": 93.55,
+      "mean_lst_c_sp": 37.71
+    },
+    {
+      "scene_id": "LC08_L2SP_219076_20251121_02_T1",
+      "date": "2025-11-21",
+      "platform": "landsat-8",
+      "cloud_cover_scene_pct": 2.27,
+      "valid_land_pct_sp": 93.2,
+      "mean_lst_c_sp": 34.44
+    },
+    {
+      "scene_id": "LC09_L2SP_219076_20241126_02_T1",
+      "date": "2024-11-26",
+      "platform": "landsat-9",
+      "cloud_cover_scene_pct": 4.7,
+      "valid_land_pct_sp": 94.17,
+      "mean_lst_c_sp": 36.32
+    },
+    {
+      "scene_id": "LC09_L2SP_219076_20240315_02_T1",
+      "date": "2024-03-15",
+      "platform": "landsat-9",
+      "cloud_cover_scene_pct": 4.38,
+      "valid_land_pct_sp": 91.72,
+      "mean_lst_c_sp": 35.78
+    },
+    {
+      "scene_id": "LC08_L2SP_219076_20231218_02_T1",
+      "date": "2023-12-18",
+      "platform": "landsat-8",
+      "cloud_cover_scene_pct": 4.03,
+      "valid_land_pct_sp": 90.54,
+      "mean_lst_c_sp": 39.57
+    }
+  ]
+}
